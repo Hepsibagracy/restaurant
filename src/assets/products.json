@@ -1,0 +1,159 @@
+[{
+    "id": 1,
+    "name": "Burger",
+    "amt": 200,
+    "shop": "Ambur Biryani",
+    "ftype":"Non-veg",
+    "pic": "https://www.foodiesfeed.com/wp-content/uploads/2024/01/best-burger-in-town.jpg",  
+    "latest": "yes"
+   
+  }, {
+    "id": 2,
+    "name": "Veg Noodles",
+    "amt": 150,
+    "shop": "Marwa Reataurant",
+    "ftype":"veg",
+    "pic":"https://www.app.tutorjoes.in/img/food/124.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 3,
+    "name": "Parotta",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/26.jpg",
+    "latest": "yes"
+    
+  },{
+    "id": 4,
+    "name": "Biryani",
+    "amt": 200,
+    "shop": "Ambur Biryani",
+    "ftype":"Non-veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/80.jpg",  
+    "latest": "yes"
+   
+  }, {
+    "id": 5,
+    "name": "Veg Noodles",
+    "amt": 150,
+    "shop": "Marwa Reataurant",
+    "ftype":"veg",
+    "pic":"https://www.app.tutorjoes.in/img/food/70.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 6,
+    "name": "Parotta",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/9.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 7,
+    "name": "Veg Noodles",
+    "amt": 150,
+    "shop": "Marwa Reataurant",
+    "ftype":"veg",
+    "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 8,
+    "name": "Parotta",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/71.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 9,
+    "name": "Veg Noodles",
+    "amt": 150,
+    "shop": "Marwa Reataurant",
+    "ftype":"veg",
+    "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 10,
+    "name": "Parotta",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/71.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 11,
+    "name": "Parotta",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/58.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 12,
+    "name": "Parotta",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/113.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 13,
+    "name": "Momo Mia Choco Sundae Meal",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/82.jpg",
+    "latest": "yes"
+    
+  },
+  
+  {
+    "id": 14,
+    "name": "Cotton Candy Scoop",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/39.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 15,
+    "name": "Cream of Chicken Soup",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/137.jpg",
+    "latest": "yes"
+    
+  },
+  {
+    "id": 16,
+    "name": "Paratha",
+    "amt": 120,
+    "shop": "Pubg Reataurant",
+    "ftype":"veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+    "latest": "yes"
+    
+  }
+]
